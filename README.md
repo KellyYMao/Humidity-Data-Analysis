@@ -14,11 +14,11 @@ Graph showing the changes in RH% over time with data obtained from csv file.
 Graph showing the changes in dewpoint temperature over time. The dewpoint was calculated based on RH% and RH Sensor Temperature data.
 
 # Saturated Water Vapor
-![Saturated_Water_Pressure_change_overtime](/Humididty_Analysis_Graphs/Saturated_Water_Pressure_change_overtime.png)  
+![Saturated_Water_Pressure_change_overtime](/Humidity_Analysis_Graphs/Saturated_Water_Pressure_change_overtime.png)  
 Graph showing the changes in saturated water vapor pressure over time. Saturated water vapor pressure was calculated with RH% and RH Sensor Temperature data.
 
 # Water Vapor Pressure
-![Water_Vapor_Pressure_change_overtime](/Humididty_Analysis_Graphs/Water_Vapor_Pressure_change_overtime.png)  
+![Water_Vapor_Pressure_change_overtime](/Humidity_Analysis_Graphs/Water_Vapor_Pressure_change_overtime.png)  
 Graph showing the changes in water vapor pressure over time. Water vapor pressure was calculated in python with saturated water vapor pressure that was previously obtained. 
 
 # Absolute Humidity
