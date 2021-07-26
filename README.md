@@ -2,7 +2,7 @@
 Using matplotlib, graphs were plotted in python using matplotlib to demonstrate the trends of Relative humidity % (RH%) over time, RH sensor temperature over time, and dewpoint temperature over time using data from a csv file. Other graphs derived from calculations with RH% and RH sensor temperatue were also plotted. 
 
 # Temperature, Relative Humidity, & Dewpoint Relationship Overview
-Relative humidity measures the amount of water vapor in the air. Relative Humidity is typically written as a percentage that compares how much water vapor is currently in the air with the amount of water vapor the air could hold if saturated (and at the same temperature). Relative humidity has an inverse relationship with temperature. As temperature increases, the capacity of air to hold water vapor increases. Thus, the relative humidity tends to decrease as temperature increases. Dewpoint Temperature is the temperature at which the air is at 100% RH or saturated with water vapor. 
+Relative humidity measures the amount of water vapor in the air. Relative Humidity is typically written as a percentage that compares how much water vapor is currently in the air with the amount of water vapor the air could hold if saturated (and at the same temperature). Relative humidity has an inverse relationship with temperature. As temperature increases, the capacity of air to hold water vapor increases. Thus, the relative humidity tends to decrease as temperature increases. Dewpoint Temperature is the temperature at which the air is at 100% RH or saturated with water vapor. The lower the dewpoint, the lower the amount of water vapor in the air. Therefore, the greater the dewpoint, the higher the relative humidity.  
 
 # Humidity-Data-Analysis
 Comparing the trends of these graphs can help us to further understand the relationships between relative humidity, temperature, dewpoint temperature, and the other factors calculated. Understanding these concepts is important as they can be applied as experimental factors to demonstrate the effect of increased presence of water vapor pressure, increased humidity, etc. on materials. Such factors may have an important role to play in the longevity of oxide protective coatings used to prevent metal dusting. 
@@ -32,4 +32,6 @@ Graph showing the changes in water vapor pressure over time. Water vapor pressur
 Graph showing the the changes in absolute humidity over time. Absolute Humidity was calculated in python with the water vapor pressure that was previously obtained.
 
 # Conclusions
-
+The RH%, water vapor pressure graphs, and absolute humidity have similar trends and thus RH%. water vapor pressure, and absolute humidity are directly proportional to one another. 
+The RH sensor temperature and saturated water vapor graphs have similar trends and thus RH% and water vapor pressure are directly proportional to one another. 
+The RH% and RH sensor temperature graphs demonstrate an inverse relationship. During the times when RH% is decreasing, RH sensor temperature is increasing. 
