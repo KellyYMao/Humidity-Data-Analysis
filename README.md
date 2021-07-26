@@ -19,7 +19,7 @@ Graph showing the changes in saturated water vapor pressure over time. Saturated
 
 # Water Vapor Pressure
 ![Water_Vapor_Pressure_change_overtime](/Humididty_Analysis_Graphs/Water_Vapor_Pressure_change_overtime.png)  
-Graph showing the changes in water vapor pressure over time. Water vapore pressure was calculated in python with saturated water vapor pressure that was previously obtained. 
+Graph showing the changes in water vapor pressure over time. Water vapor pressure was calculated in python with saturated water vapor pressure that was previously obtained. 
 
 # Absolute Humidity
 ![Water_Vapor_Pressure_change_overtime](/Humidity_Analysis_Graphs/Water_Vapor_Pressure_change_overtime.png)  
